@@ -3,6 +3,37 @@ Lots of people find it challenging to keep track of thier daily expenses. Withou
 and manage personel finances.
 
 What idea did you arrive at to solve it?
-I developed an application called the "Personal Expense Tracker" using python. It has a simple menu to make it easy to use and navigate. 
-This app will help you to easily add,view,edit,delete and search all your expenses. it also provides the user with a category summary 
-and calculates the total expenditure.
+I developed an application called the "Personal Expense Tracker" using python. It has a simple menu to make it easy to use and 
+navigate. This app will help you to easily add,view,edit,delete and search all your expenses. it also provides the user with a 
+category summary and calculates the total expenditure.
+
+Algorithm:-
+1. Start the program.
+2. Display the main menu
+3. Ask the user to choose an option by entering a number between 1-8.
+4. If user chooses Add expense, collect expense details and store them.
+5. If the user chooses view expenses, display all saved expenses.
+6. If the user chooses edit expense, allow the user to modify an already entered expense.
+7. If the user chooses delete expense, remove the selected expense.
+8. If the user chooses search expense, display expenses matching the search keyword.
+9. If the user chooses category summary, calculate and display the overall spending for each category.
+10. If the user chooses total spending, calculate and display the overall spending.
+11. Repeat the menu until the user chooses Exit.
+13. End the Program.
+
+Python Code
+The code didnt need any external libraries. While i used multiple Data Structures like functions to oraganiz the code. A list to 
+save all expenses. Dictionaries to store each separate expense. loops to repeatedly display the menu. Conditional statements to 
+process user choices and input validation to reduce invalid entries.
+
+Issues encountered
+I first thought to write the pseudocode for all the functions and full code and then typimg it on python, but 
+that wouldve been too time consuming. This made the initial planning difficult.
+
+How did i fix the issue?
+I planned to make a multiple and seperate flowcharts. I first made a main flowchart. Then multiple flowcahrts for each 
+different functions.
+
+If i had to do it again, What mistakes would i avoid?
+I think the code ive written is very lenghty, i would try to make it more efficient. This would reduce the number of changes
+needed during development.
