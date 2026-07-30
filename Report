@@ -1,2 +1,8 @@
 What is it that im trying to solve?
-Lots of people find it challenging to keep track of thier daily expenses. Without all records saved its hard to monitor spending habits and manage personel finances.
+Lots of people find it challenging to keep track of thier daily expenses. Without all records saved its hard to monitor spending habits 
+and manage personel finances.
+
+What idea did you arrive at to solve it?
+I developed an application called the "Personal Expense Tracker" using python. It has a simple menu to make it easy to use and navigate. 
+This app will help you to easily add,view,edit,delete and search all your expenses. it also provides the user with a category summary and 
+calculates the total expenditure.
