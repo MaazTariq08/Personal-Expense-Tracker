@@ -27,13 +27,14 @@ save all expenses. Dictionaries to store each separate expense. loops to repeate
 process user choices and input validation to reduce invalid entries.
 
 Issues encountered
-I first thought to write the pseudocode for all the functions and full code and then typimg it on python, but 
-that wouldve been too time consuming. This made the initial planning difficult.
+ It was very difficult to create the category summary function as it was really hard to include dictionaries, dictionary keys,
+accumilatng tools and looping through a dictionary.
 
 How did i fix the issue?
-I planned to make a multiple and seperate flowcharts. I first made a main flowchart. Then multiple flowcahrts for each 
-different functions.
+I first wrote the code but there were many errors and the code would not run. Then i took some help from AI which improved the code
+i could finnaly understand it.
 
 If i had to do it again, What mistakes would i avoid?
 I think the code ive written is very lenghty, i would try to make it more efficient. This would reduce the number of changes
-needed during development.
+needed during development. In the edit expenses option we have update the whole expenses, i would update the code so you can choose
+which column to edit.
