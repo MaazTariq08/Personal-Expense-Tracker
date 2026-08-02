@@ -38,3 +38,33 @@ If i had to do it again, What mistakes would i avoid?
 I think the code ive written is very lenghty, i would try to make it more efficient. This would reduce the number of changes
 needed during development. In the edit expenses option we have update the whole expenses, i would update the code so you can choose
 which column to edit.
+
+What am i most proud of?
+I am most proud of creating a complete expense tracker that allows users to add, view, search, edit, and delete expenses
+through a simple menu-driven interface. I am also proud that I used functions, lists, and dictionaries to organize my code,
+making it easier to read and maintain. Another achievement was implementing features such as category summaries and
+total spending calculations, which make the application more useful.
+
+Do i think users will find this useful?
+Yes. I believe users will find this application useful because it provides a simple way to record and manage daily expenses.
+Users can quickly search for expenses, update incorrect entries, remove unnecessary records, and view how much they have
+spent overall or in each category. These features help users better understand and control their spending habits.
+
+What features have i missed?
+Due to the limited scope of this project, I did not include advanced features such as permanent file storage, user login,
+budgeting tools, or charts to visualize expenses. These features would improve the application, but the current version
+focuses on providing the core functions required for a simple and effective expense tracker.
+
+What would i do to improve this?
+If I had more time, I would improve the application by adding file storage so expenses are saved permanently,
+creating a graphical user interface (GUI), and including charts and budget tracking features. These improvements would
+make the application more user-friendly, interactive, and practical for everyday use.
+
+Do you think this is good for a website?
+Yes. This application is suitable for a website because users could access it from anywhere, store their data securely,
+and benefit from additional features such as dashboards, charts, and user accounts.
+
+What are your key learnings from this entire experience?
+This project improved my understanding of Python programming, including functions, lists, dictionaries, loops,
+and exception handling. It also taught me the importance of planning, debugging, and building a real-world application
+step by step.
